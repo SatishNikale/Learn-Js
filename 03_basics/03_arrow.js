@@ -37,10 +37,10 @@ const addNum = (n1, n2) => {
   return n1 + n2;
 };
 
-const addNum = (n1, n2) => n1 + n2;
+// const addNum = (n1, n2) => n1 + n2;
 
-const addNum = (n1, n2) => n1 + n2;
+// const addNum = (n1, n2) => n1 + n2;
 
-const addNum = (n1, n2) => ({ name: "satish" });
+// const addNum = (n1, n2) => ({ name: "satish" });
 
 console.log(addNum(10, 20));
