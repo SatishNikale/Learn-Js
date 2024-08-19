@@ -33,4 +33,4 @@ let score3 = 300;
 
 let totalScore = Array.of(score1, score2, score3);
 // combine variables into array
-console.log(totalScore);
+console.log(totalScore); // [100, 200, 300]
