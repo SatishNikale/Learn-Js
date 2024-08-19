@@ -25,7 +25,7 @@ myArr.shift();    // remove value of first index
 // slice(), splice()
 
 console.log("A", myArr);
-const myn1 = myArr.slice(1, 3); // give output of given idx (2, 3) only
+const myn1 = myArr.slice(1, 3); // give output of given idx (1, 3) only
 
 console.log(myn1);
 const myn2 = myArr.splice(1, 3);
